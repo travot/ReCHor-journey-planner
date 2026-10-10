@@ -4,8 +4,7 @@ A desktop application that finds the best public transport journeys across Switz
 
 > Built by Alban Thèves and Tom Ravot for **EPFL CS-108 (Practice of Object-Oriented Programming)**, spring 2025. Java 21 · JavaFX.
 
-<!-- After you take a screenshot, save it as docs/screenshot.png and remove the comment markers on the next line: -->
-<!-- ![ReCHor screenshot](docs/screenshot.png) -->
+**Original development repository (full commit history of both authors):** [github.com/FireII/ReCHor](https://github.com/FireII/ReCHor)
 
 ## What it does
 
@@ -67,7 +66,7 @@ Requires **Java 21** and **JavaFX**.
 
 ## Development history
 
-This repository is a curated copy for presentation. The full commit history of both authors is available in the [original repository](https://github.com/FireII/ReCHor).
+This repository is a curated copy for presentation, without the course-provided files and the large timetable data. The project was developed in the [original repository, FireII/ReCHor](https://github.com/FireII/ReCHor), where the full commit history of both authors is public.
 
 ## Authors
 
