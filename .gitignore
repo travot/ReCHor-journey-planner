@@ -1,0 +1,8 @@
+.idea/
+*.iml
+out/
+timetable/
+oldtimetable/
+submissions/
+profile_*.txt
+.DS_Store
