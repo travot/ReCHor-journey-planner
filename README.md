@@ -66,7 +66,7 @@ Requires **Java 21** and **JavaFX**.
 
 ## Development history
 
-This repository is a curated copy for presentation, without the course-provided files and the large timetable data. The project was developed in the [original repository, FireII/ReCHor](https://github.com/FireII/ReCHor), where the full commit history of both authors is public.
+This repository is a curated copy for presentation, without the course-provided files and the large timetable data. The project was developed in the [original repository, FireII/ReCHor](https://github.com/FireII/ReCHor), where the full commit history of both authors is public. Code comments and Javadoc are in French (course language).
 
 ## Authors
 
