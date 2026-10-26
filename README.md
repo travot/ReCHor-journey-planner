@@ -60,7 +60,7 @@ test/                       Unit and integration tests
 
 Requires **Java 21** and **JavaFX**.
 
-1. **Get the timetable data.** The pre-built binary timetable (one week, 5 May to 11 May 2025, about 250 MB) is in the `timetable/` folder of the [original repository](https://github.com/FireII/ReCHor). Copy it to the project root, so that you have `timetable/stations.bin`, `timetable/2025-05-26/connections.bin`, and so on. The data is not stored in this repository because of its size.
+1. **Get the timetable data.** The pre-built binary timetable (one week, 26 May to 1 June 2025, about 250 MB) is in the `timetable/` folder of the [original repository](https://github.com/FireII/ReCHor). Copy it to the project root, so that you have `timetable/stations.bin`, `timetable/2025-05-26/connections.bin`, and so on. The data is not stored in this repository because of its size.
 2. **Open the project in IntelliJ IDEA.** Mark `src` as *Sources Root* and `test` as *Test Sources Root*, and add the JavaFX SDK as a library.
 3. **Run** `ch.epfl.rechor.gui.Main`. Choose a date within the week above.
 
